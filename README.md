@@ -1,4 +1,4 @@
-# kabanero-java-microprofile
+# kabanero collections and pipelines demo
 
 ##Appsody Collections Demo
 
