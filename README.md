@@ -1,6 +1,6 @@
 # kabanero collections and pipelines demo
 
-## Appsody Collections Demo
+## Appsody Collections Demo commands
 
 - Install appsody : 
 	```
