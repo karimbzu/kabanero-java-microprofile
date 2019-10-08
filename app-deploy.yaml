@@ -1,11 +1,11 @@
 apiVersion: appsody.dev/v1beta1
 kind: AppsodyApplication
 metadata:
-  name: kab-java-mp
+  name: java-microprofile-v020-beta1
 spec:
   # Add fields here
   version: 1.0.0
-  applicationImage: kab-java-mp 
+  applicationImage: java-microprofile-v020-beta1 
   stack: java-microprofile
   service:
     type: NodePort
