@@ -6,4 +6,6 @@ import javax.ws.rs.core.Application;
 @ApplicationPath("/starter")
 public class StarterApplication extends Application {
 //comment
+  
+  //comment 2
 }
