@@ -1,7 +1,7 @@
 # Kabanero collections and pipelines demo
 
 ## Appsody Collections Demo commands
-## TEST BY AHMAD KARIM s/o WAHID BAKHSH BALOCH
+## TEST BY AHMAD s/o WAHID BAKHSH BALOCH
 - Install appsody : 
 	```
   brew install appsody/appsody/appsody
