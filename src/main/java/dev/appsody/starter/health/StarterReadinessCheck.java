@@ -12,7 +12,7 @@ public class StarterReadinessCheck implements HealthCheck {
 
     private boolean isReady() {
         // perform readiness checks, e.g. database connection, etc.
-
+//this is test code
         return true;
     }
 	
