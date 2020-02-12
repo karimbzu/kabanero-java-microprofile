@@ -2,7 +2,7 @@
 
 ## Appsody Collections Demo commands
 ## TEST BY AHMAD s/o WAHID BAKHSH BALOCH
-- Install appsody : 
+- Install appsody :   
 	```
   brew install appsody/appsody/appsody
   ```
