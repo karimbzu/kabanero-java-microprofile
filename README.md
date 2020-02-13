@@ -1,7 +1,7 @@
 # Kabanero collections and pipelines demo
 
 ## Appsody Collections Demo commands
-## TEST BY 
+
 - Install appsody :   
 	```
   brew install appsody/appsody/appsody
