@@ -15,7 +15,7 @@
   appsody repo add <name> <url>
   appsody repo add kabcollections https://github.com/kabanero-io/collections/releases/download/v0.1.2/kabanero-index.yaml
   ```
-- List all kabanero collections:
+- List all kabanero collections: 
   ```
   appsody list | grep kabcollections
   ```
